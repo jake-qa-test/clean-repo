@@ -1,3 +1,2 @@
 # clean-repo
-s
-a
+
